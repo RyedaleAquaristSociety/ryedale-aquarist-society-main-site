@@ -142,5 +142,6 @@
       {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
+  {%- if include.type == 'brief' and include.group_by == 'year' and _sorted_list.size > 0 -%}</ul></section>{%- endif -%}
 
 </div>

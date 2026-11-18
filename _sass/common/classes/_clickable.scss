@@ -63,7 +63,7 @@
       @if $theme == "dark" {
         $active-clr: lighten($hover-clr, 16%);
       }
-    } @else if $active-bg-clr == default {
+    } @else {
       $active-clr: $hover-clr;
     }
   }
@@ -79,11 +79,7 @@
 
   // focus
   @if $focus-clr == default {
-    @if $focus-bg-clr == null {
-      $focus-clr: $hover-clr;
-    } @else if $hover-bg-clr == default {
-      $focus-clr: $hover-clr;
-    }
+    $focus-clr: $hover-clr;
   }
 
   @if $focus-bg-clr == default {
