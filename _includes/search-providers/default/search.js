@@ -15,19 +15,27 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
 
   /// search
   function searchByQuery(query) {
-    var i, j, key, keys, cur, _title, result = {};
+    var i, j, key, keys, cur, title, text, inTitle, inText, titleHits, textHits, result = {};
+    var words = query.toLowerCase().split(/\s+/).filter(function(w) { return w; });
+    var hasAll = function(s) {
+      for (var k = 0; k < words.length; k++) { if (s.indexOf(words[k]) < 0) { return false; } }
+      return true;
+    };
     keys = Object.keys(searchData);
     for (i = 0; i < keys.length; i++) {
       key = keys[i];
+      titleHits = [];
+      textHits = [];
       for (j = 0; j < searchData[key].length; j++) {
-        cur = searchData[key][j], _title = cur.title;
-        if ((result[key] === undefined || result[key] && result[key].length < 4 )
-          && _title.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
-          if (result[key] === undefined) {
-            result[key] = [];
-          }
-          result[key].push(cur);
-        }
+        cur = searchData[key][j];
+        title = (cur.title || '').toLowerCase();
+        text = (cur.text || '').toLowerCase();
+        inTitle = hasAll(title);
+        inText = !inTitle && hasAll(title + ' ' + text);
+        if (inTitle) { titleHits.push(cur); } else if (inText) { textHits.push(cur); }
+      }
+      if (titleHits.length || textHits.length) {
+        result[key] = titleHits.concat(textHits).slice(0, 8);
       }
     }
     return result;
@@ -45,6 +53,9 @@ window.Lazyload.js([SOURCES.jquery, PAHTS.search_js], function() {
     if (!data) { return null; }
     var $root = $('<ul></ul>'), i, j, key, keys, cur, itemIndex = 0;
     keys = Object.keys(data);
+    if (!keys.length) {
+      return $('<p class="search-result__header">No results</p>');
+    }
     for (i = 0; i < keys.length; i++) {
       key = keys[i];
       $root.append(renderHeader(key));
