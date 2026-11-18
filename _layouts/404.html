@@ -5,8 +5,9 @@ show_title: false
 ---
 <div class="layout--404">
   <div class="sign">
-    <h1>404</h1>
-    <p>Page not found :(</p>
+    <p class="sign__code" aria-hidden="true">404</p>
+    <p>Sorry, we couldn't find that page.</p>
+    <p class="sign__links"><a href="{{ '/' | relative_url }}">Go to the home page</a> or <a href="{{ '/news.html' | relative_url }}">see the latest news</a>.</p>
   </div>
 </div>
 

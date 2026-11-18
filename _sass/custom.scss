@@ -123,4 +123,32 @@
   outline: none;
 }
 
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.article__header--overlay .article__info {
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+::selection {
+  background: #5ed6b4;
+  color: #14122a;
+}
+
+.navigation__item > a,
+.item__readmore {
+  display: inline-block;
+  padding: 0.2rem 0;
+}
+
 /* end custom scss snippet */

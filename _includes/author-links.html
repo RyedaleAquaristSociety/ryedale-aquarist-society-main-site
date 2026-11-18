@@ -22,7 +22,7 @@
     {%- include snippets/get-locale-string.html key='EMAIL_ME' -%}
     {%- if _author.email -%}
       <li title="{{ _locale_string_email }}">
-      <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" target="_blank" aria-label="{{ _locale_string_email }}">
+      <a class="button button--circle mail-button" itemprop="email" href="mailto:{{ _author.email }}" aria-label="{{ _locale_string_email }}">
         <i class="fas fa-envelope" aria-hidden="true"></i>
       </a>
       </li>
@@ -31,7 +31,7 @@
 
     {%- if _author.facebook -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
-        <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank" aria-label="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }}">
+        <a class="button button--circle facebook-button" itemprop="sameAs" href="https://www.facebook.com/{{ _author.facebook }}" target="_blank" rel="noopener" aria-label="{{ _locale_string_follow | replace: '[NAME]', 'Facebook' }} (opens in a new tab)">
           <div class="icon" aria-hidden="true">{%- include svg/icon/social/facebook.svg -%}</div>
         </a>
       </li>
