@@ -10,9 +10,9 @@ Here's what's coming up at the club. Events are kept up to date on our
 
 <div class="facebook-events">
   <iframe
-    src="https://www.facebook.com/plugins/page.php?href={{ page.facebook_page | url_encode }}&tabs=events&width=500&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false"
+    src="https://www.facebook.com/plugins/page.php?href={{ page.facebook_page | url_encode }}&tabs=timeline&width=500&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false"
     width="500" height="700" style="border:none"
     allowfullscreen loading="lazy"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-    title="Ryedale Aquarist Society events on Facebook"></iframe>
+    title="Ryedale Aquarist Society posts on Facebook"></iframe>
 </div>
