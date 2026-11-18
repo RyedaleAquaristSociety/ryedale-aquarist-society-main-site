@@ -1,0 +1,12 @@
+header:
+  - title: About
+    url: /about.html
+
+  - title: Blog
+    url: /blog.html
+
+  - title: Events
+    url: /events.html
+
+  - title: News
+    url: /news.html
