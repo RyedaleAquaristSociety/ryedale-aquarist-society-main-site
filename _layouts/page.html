@@ -151,8 +151,8 @@ layout: base
                     {%- if page.header_logo -%}
                       <img class="hero__logo" src="{{ page.header_logo | relative_url }}" alt="Ryedale Aquarist Society logo">
                     {%- endif -%}
-                    {%- include article-info.html article=page semantic=false -%}
                     {%- include article-header.html article=page semantic=false -%}
+                    {%- include article-info.html article=page semantic=false -%}
                     {%- comment -%} Banner subtext: pages only (e.g. the home tagline). Posts get an automatic
                         excerpt from their first paragraph, which would just repeat the article below. {%- endcomment -%}
                     {%- if page.excerpt and page.collection != 'posts' -%}
