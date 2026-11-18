@@ -64,6 +64,7 @@
 .article__content .article-list .item__header {
   font-size: 1.25rem;
   margin-top: 0;
+  border-bottom: 1px solid $border-color-l;
 }
 
 .article__content .article-list.items--divided > .item {
@@ -100,6 +101,26 @@
 .article__content > ol > li a {
   text-decoration: underline;
   text-underline-offset: 0.15em;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  background: #fff;
+  color: #14122a;
+  font-weight: bold;
+  transition: none;
+  &:focus {
+    left: 1rem;
+    top: 1rem;
+  }
+}
+
+#main-content:focus {
+  outline: none;
 }
 
 /* end custom scss snippet */

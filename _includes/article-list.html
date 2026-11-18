@@ -2,6 +2,8 @@
 
 {%- assign _excerpt_type = include.excerpt_type -%}
 
+{%- assign _heading_level = include.heading_level | default: 2 -%}
+
 {%- include snippets/get-locale-string.html key='READMORE' -%}
 {%- assign _locale_readmore = __return -%}
 
@@ -55,7 +57,7 @@
           </div>
         {%- endif -%}
         <div class="item__content">
-          <header><a href="{{ _article_url }}"><h2 itemprop="headline" class="item__header">{{ _article.title }}</h2></a></header>
+          <header><a href="{{ _article_url }}"><h{{ _heading_level }} itemprop="headline" class="item__header">{{ _article.title }}</h{{ _heading_level }}></a></header>
           <div class="item__description">
             {%- if _article.excerpt and include.show_excerpt -%}
               <div class="article__content" itemprop="description articleBody">

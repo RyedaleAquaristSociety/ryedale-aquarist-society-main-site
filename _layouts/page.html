@@ -68,6 +68,7 @@ layout: base
     <div class="{{ _page_main_class }} cell cell--auto">
 
       <div class="page__main-inner">
+      <a class="skip-link" href="#main-content">Skip to content</a>
       {%- if _header != false -%}
         <div class="page__header d-print-none">
         {%- assign _header_theme = page.header.theme | default: layout.header.theme -%}
@@ -82,7 +83,7 @@ layout: base
       {%- endif -%}
 
 
-        <div class="page__content">
+        <div class="page__content" id="main-content" role="main" tabindex="-1">
         {%- if _article_header_type == 'overlay' or _article_header_type == 'cover' -%}
 
           {%- if _article_header_type == 'overlay' -%}
