@@ -5,11 +5,14 @@ header:
   - title: About
     url: /about.html
 
-  - title: Blog
-    url: /blog.html
+  - title: News
+    url: /news.html
+
+  - title: Posts
+    url: /posts.html
 
   - title: Events
     url: /events.html
 
-  - title: News
-    url: /news.html
+  - title: Contact
+    url: /contact.html

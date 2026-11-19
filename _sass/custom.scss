@@ -158,4 +158,16 @@
   padding: 0.2rem 0;
 }
 
+.layout--archive > .site-tags {
+  margin-top: 2rem;
+
+  .menu {
+    gap: 0.4rem;
+  }
+
+  .tag-button {
+    border-radius: 0.4rem;
+  }
+}
+
 /* end custom scss snippet */

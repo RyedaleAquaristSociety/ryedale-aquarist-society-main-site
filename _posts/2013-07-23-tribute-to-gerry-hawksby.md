@@ -2,7 +2,7 @@
 title: A Tribute to Mr. Gerry Hawksby
 author: David Marshall
 show_author_profile: true
-category: people
+category: club
 ---
 
 Remembrance of my friend

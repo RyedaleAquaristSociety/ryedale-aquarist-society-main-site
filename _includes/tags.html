@@ -22,6 +22,19 @@
         Show All<span class="tag-button__count">{{ site.posts | size }}</span>
       </button>
     </li>
+    {%- assign _filter_categories = "news:News,fish:Articles,club:Club" | split: ',' -%}
+    {%- for _filter_category in _filter_categories -%}
+      {%- assign _filter_parts = _filter_category | split: ':' -%}
+      {%- assign _filter_key = _filter_parts | first -%}
+      {%- assign _filter_label = _filter_parts | last -%}
+      {%- assign _filter_posts = site.categories[_filter_key] -%}
+      {%- if _filter_posts.size > 0 -%}
+      <li><button type="button" class="button button--pill tag-button tag-button-{{ forloop.index }}" data-encode="{{ _filter_key }}">
+          <span>{{ _filter_label }}</span><span class="tag-button__count">{{ _filter_posts.size }}</span>
+        </button>
+      </li>
+      {%- endif -%}
+    {%- endfor -%}
     {%- for _tag in _tags -%}
       {%- assign _tag_cur_size = _tag[1].size -%}
       {%- assign _tag_min_1 = _tag_min_size -%}
