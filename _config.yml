@@ -205,6 +205,7 @@ defaults:
   - scope:
       path: ""
     values:
+      image: /assets/images/site-preview.jpg
       article_header:
         type: overlay
         theme: dark
@@ -235,3 +236,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-seo-tag
