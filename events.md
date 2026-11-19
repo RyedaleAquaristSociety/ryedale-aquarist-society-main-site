@@ -6,6 +6,9 @@ excerpt: Upcoming and past events in one place
 facebook_page: https://www.facebook.com/p/Ryedale-Aquarist-Society-61588121637369/
 ---
 
+<h2>Our 2027 Open Event is confirmed for 13th June 2027!</h2>
+[https://ryedaleaquaristsociety2027.carrd.co/](https://ryedaleaquaristsociety2027.carrd.co/)
+
 Here's what's coming up at the club. Events are kept up to date on our
 [Facebook page]({{ page.facebook_page }}).
 
