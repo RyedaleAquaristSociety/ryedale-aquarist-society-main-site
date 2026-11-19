@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Contact
-excerpt: Get in touch with the society
+excerpt: Get in touch with the club
 ---
 
 We'd love to hear from you, whether you're thinking of joining, have a question about fishkeeping or want to know more about one of our events.
