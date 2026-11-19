@@ -20,7 +20,7 @@ Club Logos
     <figcaption>2024</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/logo/ryedale-logo.png" alt="Current Ryedale Aquarist Society logo with a Black Widow Tetra in a purple ring">
+    <img src="/assets/images/final%20ryedale%20logo%20indigo%20adjusted.png" alt="Current Ryedale Aquarist Society logo with a Black Widow Tetra in a purple ring">
     <figcaption>Current</figcaption>
   </figure>
 </div>
