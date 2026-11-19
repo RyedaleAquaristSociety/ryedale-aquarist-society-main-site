@@ -1,5 +1,6 @@
 ---
 title: "A Super Time at Solway"
+description: "On Sunday 22nd July, 2007 the Solway Aquarist Society held their annual tri-specialist Open Show at the Barony College, Dumfries, featuring catfish, characins and livebearers."
 author: David Marshall
 show_author_profile: true
 category: club

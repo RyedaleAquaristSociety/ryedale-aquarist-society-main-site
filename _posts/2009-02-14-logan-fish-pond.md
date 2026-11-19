@@ -1,5 +1,6 @@
 ---
 title: "Logan Fish Pond"
+description: "The Logan Fish Pond is a unique visitor attraction snuggled into the beautiful Galloway (Southern Scotland) gem, which is Port Logan Bay."
 author: David Marshall
 show_author_profile: true
 category: club

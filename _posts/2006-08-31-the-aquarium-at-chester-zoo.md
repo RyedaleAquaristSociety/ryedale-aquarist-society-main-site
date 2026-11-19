@@ -1,5 +1,6 @@
 ---
 title: "The Aquarium at Chester Zoo"
+description: "The beautiful City of Chester is famous for its Roman history, Cathedral, superb shopping facilities and as the home of the U.K.'s largest Zoological Gardens - which were recently voted 'the U.K.'s best large family attraction'."
 author: David Marshall
 show_author_profile: true
 category: club

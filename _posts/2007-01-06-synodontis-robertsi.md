@@ -1,5 +1,6 @@
 ---
 title: "Synodontis robertsi"
+description: "In our 'hobby' Synodontis robertsi is usually sold under its scientific name as opposed to the common names of Robert's Synodontis and Large blotch Synodontis. In the wild this fish hails from Central Congo, Lukeria and the Egobe river system."
 author: David Marshall
 show_author_profile: true
 category: fish

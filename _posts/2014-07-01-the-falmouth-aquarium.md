@@ -1,5 +1,6 @@
 ---
 title: "The Falmouth Aquarium: Small but Wonderful!"
+description: "On 16th July 2013, the Falmouth Aquarium made national media headlines in the U.K. when press reports from the Western Morning News were syndicated to several major newspapers and news websites. These reports concerned an SOS that was sent out from the Aquarium owners to the St Austell Brewery. With the U.K. suffering from an exceptional heat wave, aquariums housing both native and tropical marine creatures at the Aquarium had begun to badly overheat. Knowing that the Brewery had helped the National Lobster Hatchery overcome similar problems a few years earlier by installing vital beer-chilling systems, the SOS call was made."
 author: David Marshall
 show_author_profile: true
 category: club

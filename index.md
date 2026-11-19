@@ -3,6 +3,7 @@ layout: article
 title: Ryedale Aquarist Society
 show_title: true
 excerpt: The little club with a big heart
+description: We are a group of fishkeeping enthusiasts based in the Ryedale area of North Yorkshire.
 header_logo: /assets/images/final ryedale logo indigo adjusted.png
 ---
 

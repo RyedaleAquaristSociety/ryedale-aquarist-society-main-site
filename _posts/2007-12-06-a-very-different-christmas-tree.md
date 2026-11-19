@@ -1,5 +1,6 @@
 ---
 title: "A Very Different Christmas Tree?"
+description: "The story of our very different Christmas tree began almost a year ago when I made the first enquiry about the possibility of the Ryedale Aquarist Society taking part in the St. Peter & St. Paul's Church Pickering (North Yorkshire) Christmas Tree Festival of 2007."
 author: David Marshall
 show_author_profile: true
 category: club

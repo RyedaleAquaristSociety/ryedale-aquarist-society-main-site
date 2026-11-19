@@ -1,5 +1,6 @@
 ---
 title: "A Visit to the Chestnut Centre"
+description: "The Derbyshire Peak District is an area of outstanding natural beauty that attracts thousands of visitors and walkers each year. Fishkeepers have extra reasons to be attracted to this area as there are several aquatic retail outlets you can visit as well as the wonderful, and very different, Public Aquarium at Matlock Baths (which we have already reviewed). However, there is also a unique, and amazingly beautiful 50 acre conservation park known as the Chestnut Centre that is of great interest to those of us with a broad interest in aquatic life as it is home to an equally unique collection of aquatic mammals complemented by a whole host of non-aquatic creatures."
 author: David Marshall
 show_author_profile: true
 category: club

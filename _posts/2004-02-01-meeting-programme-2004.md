@@ -1,5 +1,6 @@
 ---
 title: Meeting Programme 2004
+description: Our meeting dates and speakers from February to April 2004, at the Bay Horse Hotel in Pickering.
 author: David Marshall
 show_author_profile: true
 category: club

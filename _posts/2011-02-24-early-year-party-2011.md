@@ -1,5 +1,6 @@
 ---
 title: "Early Year Party 2011"
+description: "When the adverse weather of December 2010 forced the cancellation of our annual Christmas Party the members decided that we would organise an early year party instead."
 author: David Marshall
 show_author_profile: true
 category: club

@@ -1,5 +1,6 @@
 ---
 title: "Our Christmas Tree at the Pickering Christmas Tree Festival 2008"
+description: "Our 2007 Christmas Tree Festival display was certainly going to be very difficult to match. With this in mind it would have been easy just to duplicate the arrangement, which featured 25 endangered freshwater fish species from around the World, but I wanted to produce something a little different so Sue came forward with the idea of presenting 'God's world of colourful fishes'."
 author: David Marshall
 show_author_profile: true
 category: club

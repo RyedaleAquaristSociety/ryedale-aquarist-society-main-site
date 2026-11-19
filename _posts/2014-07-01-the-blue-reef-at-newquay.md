@@ -1,5 +1,6 @@
 ---
 title: "The Blue Reef at Newquay"
+description: "The Blue Reef at Newquay, Cornwall is located in one of the most picturesque settings of any Public Aquarium in the U.K. Set nicely into the cliff side at Towan Beach, it is surrounded by both natural and man-made beauty. However, for the visitor, there is a slight downside to the location as there is limited vehicle access and however you approach on foot the access footpaths to the building are fairly steep."
 author: David Marshall
 show_author_profile: true
 category: club

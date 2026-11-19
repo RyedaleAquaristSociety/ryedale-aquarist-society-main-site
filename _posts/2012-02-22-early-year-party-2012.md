@@ -1,5 +1,6 @@
 ---
 title: "Early Year Party 2012"
+description: "Our members and locally-based friends enjoyed our 2011 Early New Year Party so much that we decided to go with the same idea for 2012."
 author: David Marshall
 show_author_profile: true
 category: club

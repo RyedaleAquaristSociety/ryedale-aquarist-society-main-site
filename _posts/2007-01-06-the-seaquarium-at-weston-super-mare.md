@@ -1,5 +1,6 @@
 ---
 title: "The SeaQuarium at Weston-super-Mare"
+description: "Weston-Super-Mare is the closest seaside resort to Bristol and is often described as 'Mini-Blackpool'. Unfortunately, upon the day of our visit, the heavens decided to open so we did not see much of the town and will long remember the sight of forlorn fellow visitors literally 'soaked to the bone' as the wind blew cascades of water in from the sea."
 author: David Marshall
 show_author_profile: true
 category: club

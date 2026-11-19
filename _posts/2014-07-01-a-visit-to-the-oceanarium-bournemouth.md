@@ -1,5 +1,6 @@
 ---
 title: "A Visit to the Oceanarium, Bournemouth"
+description: "The Oceanarium at Bournemouth is very easy to find as it is situated right on the sands of West Beach adjacent to the Pier and opposite the beautiful theatre park gardens (watch out for some very tame Squirrels and interesting aviaries)."
 author: David Marshall
 show_author_profile: true
 category: club

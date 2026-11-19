@@ -1,5 +1,6 @@
 ---
 title: "The Deep at Hull"
+description: "Very few of us ever have the chance to get on board a submarine and explore the wonders of the oceans. However, there is a Public Aquarium, based at Hull in East Yorkshire, known as The Deep that can give us a good idea of what a submarine journey may be like as it advertises itself as the World's only submarium."
 author: David Marshall
 show_author_profile: true
 category: club

@@ -1,5 +1,6 @@
 ---
 title: "Our 25th Anniversary Day"
+description: "Held at the Old Malton Memorial Hall in Malton, North Yorkshire, on Sunday 11th July, the Ryedale Aquarist Society held their 25th Anniversary Day."
 author: David Ford
 show_author_profile: true
 category: club

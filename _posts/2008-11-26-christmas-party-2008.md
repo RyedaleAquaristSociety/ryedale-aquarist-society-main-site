@@ -1,5 +1,6 @@
 ---
 title: "Christmas Party 2008"
+description: "On Thursday 26th November our annual Christmas party was held in the Mill Suite at Pickering Memorial Hall."
 author: David Marshall
 show_author_profile: true
 category: club

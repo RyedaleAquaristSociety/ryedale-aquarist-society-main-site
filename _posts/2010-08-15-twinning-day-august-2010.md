@@ -1,5 +1,6 @@
 ---
 title: "Twinning Day, August 2010"
+description: "On Sunday 15th August the majestic Whistler Room at Pickering Memorial Hall played host to a special Twinning Day involving the members and friends of the Ryedale Aquarist Society and STAMPS."
 author: David Marshall
 show_author_profile: true
 category: club

@@ -1,5 +1,6 @@
 ---
 title: "Blue Planet Aquarium"
+description: "The Cheshire town of Ellesmere Port is famous for its Narrow Boat Museum, Cheshire Oaks shopping centre and as the home of the Blue Planet Aquarium - the largest Public Aquarium in the U.K."
 author: David Marshall
 show_author_profile: true
 category: club

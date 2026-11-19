@@ -1,5 +1,6 @@
 ---
 title: "The Shubunkin"
+description: "Goldfish had their origin in China from where admirers of the fish first took them to Japan and later the U.K. The shubunkin is a calico variety of goldfish and, if my memory serves me right, means in Chinese 'Chuwen-Chin' (Poor man's koi)."
 author: Majid Ali
 show_author_profile: true
 category: fish

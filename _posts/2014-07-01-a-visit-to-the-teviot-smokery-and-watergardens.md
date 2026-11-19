@@ -1,5 +1,6 @@
 ---
 title: "A Visit to the Teviot Smokery and Watergardens"
+description: "Anybody visiting the Scottish Borderlands cannot help but be impressed by the town of Jedburgh. Here the almost unreal Abbey ruins dominate the landscape of a town like nowhere else Sue and I know in the U.K."
 author: David Marshall
 show_author_profile: true
 category: club

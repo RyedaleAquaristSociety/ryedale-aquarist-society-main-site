@@ -1,5 +1,6 @@
 ---
 title: "An Evening of Fishkeeping at Pets at Home, 2010"
+description: "The 25th Anniversary year of the Ryedale Aquarist Society began with the acceptance of an invitation to take part in the Pets At Home Clifton Moor Branch 'Evening of Fishkeeping', that was held within the aquatic department of the store on Monday 12th April."
 author: David Marshall
 show_author_profile: true
 category: club

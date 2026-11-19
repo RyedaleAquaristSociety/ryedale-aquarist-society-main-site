@@ -1,5 +1,6 @@
 ---
 title: "An Evening at Petland"
+description: "On the evening of Thursday 16th November the members and friends of Ryedale Aquarist Society enjoyed another excellent visit to Petland at New Earswick (eastern outskirts of York)."
 author: David Marshall
 show_author_profile: true
 category: club

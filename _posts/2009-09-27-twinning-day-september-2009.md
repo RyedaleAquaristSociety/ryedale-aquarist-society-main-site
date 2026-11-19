@@ -1,5 +1,6 @@
 ---
 title: "Twinning Day, September 2009"
+description: "The majestic Whistler Room at Pickering Memorial Hall played host to the second 2009 Ryedale and STAMPS Twinning Day."
 author: David Marshall
 show_author_profile: true
 category: club

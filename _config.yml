@@ -206,6 +206,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/site-preview.jpg
+      seo_description_max_words: 20
       article_header:
         type: overlay
         theme: dark

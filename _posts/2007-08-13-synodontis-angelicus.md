@@ -1,5 +1,6 @@
 ---
 title: "Synodontis angelicus"
+description: "Field researchers and collectors alike report that Synodontis angelicus are never abundant over their natural range, which was once believed to be restricted to the Malebo (Stanley) Pool area of Zaire but it is now thought to stretch into areas of Cameroon, the Congo Republic and the Congo Democratic Republic."
 author: David Marshall
 show_author_profile: true
 category: fish

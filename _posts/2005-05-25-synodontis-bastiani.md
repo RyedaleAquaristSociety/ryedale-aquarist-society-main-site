@@ -1,5 +1,6 @@
 ---
 title: "Synodontis bastiani"
+description: "Scientific name - Synodontis bastiani. In textbooks you are more likely to find this fish under its junior synonym name of Synodontis euberneensis."
 author: David Marshall
 show_author_profile: true
 category: fish

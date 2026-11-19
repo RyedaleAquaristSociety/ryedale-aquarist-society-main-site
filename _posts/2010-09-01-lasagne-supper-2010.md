@@ -1,5 +1,6 @@
 ---
 title: "Lasagne Supper, September 2010"
+description: "As part of our 25th Anniversary celebrations Goy and Ann Grayson invited the members to attend a lasagne supper at their home. The members who were able to attend were treated to a beautiful homemade lasagne that was complimented with jacket potatoes, garlic bread and salad."
 author: David Marshall
 show_author_profile: true
 category: club

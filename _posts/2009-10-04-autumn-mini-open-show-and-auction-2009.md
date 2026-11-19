@@ -1,5 +1,6 @@
 ---
 title: "Autumn Mini-Open Show and Auction 2009"
+description: "Fishkeepers from across Northern England and Scotland joined the Ryedale members for their second open event of the year."
 author: David Marshall
 show_author_profile: true
 category: club

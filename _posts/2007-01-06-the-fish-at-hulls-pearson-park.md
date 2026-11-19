@@ -1,5 +1,6 @@
 ---
 title: "The Fish at Hull's Pearson Park"
+description: "Beverley Road is like the artery of the East Yorkshire City of Kingston-upon-Hull with its many branch roads leading to the main leisure, shopping and business areas. For Sue and I it is the means of finding Sculcoates Lane and this, in turn, takes us to the door of Frisby Aquatics - where a wealth of unusual and rare fish species are always to be found."
 author: David Marshall
 show_author_profile: true
 category: club

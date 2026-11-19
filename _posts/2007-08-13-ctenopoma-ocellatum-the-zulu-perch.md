@@ -1,5 +1,6 @@
 ---
 title: "Ctenopoma ocellatum: The Zulu Perch"
+description: "Ctenopoma ocellatum is endemic to the Congo River system of Zaire. The first aquarium specimens arrived into Europe at a time when awe and wonder had not been overtaken by geographical correctness, so the first labyrinth fish enthusiasts to see ocellatum linked their amazing cross-striped foreground pattern, to that of the battle formation of locked together diamond-shaped shields used by the famous Zulu warriors of Southern Africa and came up with the common name of Zulu Perch."
 author: David Marshall
 show_author_profile: true
 category: fish

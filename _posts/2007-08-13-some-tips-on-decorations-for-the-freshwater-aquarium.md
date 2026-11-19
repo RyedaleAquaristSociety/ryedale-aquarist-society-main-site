@@ -1,5 +1,6 @@
 ---
 title: "Some Tips on Decorations for the Freshwater Aquarium"
+description: "Our article came about through questioning from my working colleagues as to exactly what decorative material they could use in order to embellish the look of their aquarium(s)."
 author: Majid Ali
 show_author_profile: true
 category: fish

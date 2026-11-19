@@ -1,5 +1,6 @@
 ---
 title: "The Friends of Yorkshire Open Show"
+description: "On Sunday 19th August 2007 members of a number of Y.A.A.S. affiliated Societies joined together to put on the first Friends of Yorkshire Open Show, which was held at the Village Hall, Stockton-on-the-Forest, York."
 author: David Marshall
 show_author_profile: true
 category: club

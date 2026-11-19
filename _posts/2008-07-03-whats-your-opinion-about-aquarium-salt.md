@@ -1,5 +1,6 @@
 ---
 title: "What's Your Opinion About Aquarium Salt?"
+description: "This article was written for issue 121 of Ryedale Reporter - the monthly magazine of the Ryedale Aquarist Society"
 author: Majid Ali
 show_author_profile: true
 category: fish

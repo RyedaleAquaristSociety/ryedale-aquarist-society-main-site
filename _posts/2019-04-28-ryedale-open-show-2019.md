@@ -1,5 +1,6 @@
 ---
 title: "Ryedale Open Show 2019"
+description: "On Sunday 28th April, 2019, the Ryedale Aquarist Society held another of their popular Open Shows and Auctions in the beautiful setting of Kirby Misperton Village Hall."
 author: David Ford
 show_author_profile: true
 category: club

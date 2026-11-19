@@ -1,5 +1,6 @@
 ---
 title: "Synodontis katangae"
+description: "Several months ago a 'mixed bag' of wild caught Synodontis species arrived at the Petland aquatic retail outlet at New Earswick (a suburb of York). Martin, whose family own the outlet, was 'first on the scene' as these fish arrived and put aside a beautiful crème coloured little Synodontis to take home for his own aquarium."
 author: David Marshall
 show_author_profile: true
 category: fish

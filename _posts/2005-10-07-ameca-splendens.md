@@ -1,5 +1,6 @@
 ---
 title: "Ameca splendens"
+description: "Generally speaking, the group of fish we know as Live Bearing Tooth Carps have always been easily identified by the fact that males do not have an anal fin, instead this part of their anatomy is modified to form what is correctly known as the Gonopodium. However in the mid 1970's another family of livebearers was discovered in Central America and more particularly Mexico in which both sexes had an anal fin, albeit the first two rays of which in males were much shorter and formed what some biologists call the Andropodium, whilst others refer to it as the Spermatopodium."
 author: Gerry Hawksby
 show_author_profile: true
 category: fish

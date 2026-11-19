@@ -1,5 +1,6 @@
 ---
 title: "Evening Visit to Ferrybridge Aquatics, April 2012"
+description: "On the evening of Monday 23rd April members of Ryedale Aquarist Society made a return visit to Ferrybridge Aquatics."
 author: David Marshall
 show_author_profile: true
 category: club

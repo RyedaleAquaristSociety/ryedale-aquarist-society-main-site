@@ -1,5 +1,6 @@
 ---
 title: "An Early Start to Christmas: Christmas Party 2007"
+description: "On Wednesday 28th November our members and local 'friends', a total of 24 people, came together in order to enjoy an early Christmas party hosted by Sue and David Marshall."
 author: David Marshall
 show_author_profile: true
 category: club

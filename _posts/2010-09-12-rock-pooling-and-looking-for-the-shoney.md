@@ -1,5 +1,6 @@
 ---
 title: "Rock-Pooling and Looking for the Shoney?"
+description: "The morning of Sunday 12th September was absolutely beautiful as our next Twinning event took a small band of members from STAMPS and Ryedale A.S. to the pier at South Shields for a very special morning."
 author: David Marshall
 show_author_profile: true
 category: club

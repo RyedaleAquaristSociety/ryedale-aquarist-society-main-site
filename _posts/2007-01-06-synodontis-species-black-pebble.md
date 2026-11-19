@@ -1,5 +1,6 @@
 ---
 title: "Synodontis 'species' Black Pebble"
+description: "As our subject specie did not come about through the trials and tribulations of natural selection, but as the direct result of hybridisation techniques employed by Eastern European fish breeders, Synodontis 'species' black pebble will become the first non-affiliated member, as (unless there is the same mistake which may have given a hybrid specie validity as Synodontis galinae) it will never receive the accolade associated with scientific naming, of the Mochokidae family we have discussed."
 author: David Marshall
 show_author_profile: true
 category: fish

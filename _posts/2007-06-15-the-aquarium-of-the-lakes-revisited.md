@@ -1,5 +1,6 @@
 ---
 title: "The Aquarium of the Lakes Revisited"
+description: "The Aquarium of the Lakes is situated on the quayside of Lakeside, Lake Windermere, Cumbria. With the Lake and its surrounding beauty as a backdrop, you could not wish for a better place to site a Public Aquarium. This Aquarium in turn has broadened its scope in order to display a wider variety of natural wonders from the 'local' area and a little further a field."
 author: David Marshall
 show_author_profile: true
 category: club

@@ -1,5 +1,6 @@
 ---
 title: "Not So Angelic(us)"
+description: "We begin our article with a look at two species of Synodontis that are very popular in the aquarium hobby."
 author: David Marshall
 show_author_profile: true
 category: fish

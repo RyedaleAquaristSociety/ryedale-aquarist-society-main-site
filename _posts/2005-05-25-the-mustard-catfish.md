@@ -1,5 +1,6 @@
 ---
 title: "The Mustard Catfish"
+description: "Just over two years ago, while looking through the stock tanks at Frisby Aquatics in Hull, I came across a tiny Synodontis offered for sale under the 'species' tag. At first glance the resemblance of bodily features and colour pattern to those of Synodontis schoutedeni indicated that here we had a colour variant of this well known Congo species. Going back for a second look convinced me that the dorsal pattern was a little different so as a 'Synodontis nut' I made the purchase in the hope that I would have what would be, to me, a 'new species' to study?"
 author: David Marshall
 show_author_profile: true
 category: fish

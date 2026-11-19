@@ -1,5 +1,6 @@
 ---
 title: "A Tried and Tested Method of Curing Bogwood"
+description: "Along with pieces of coal, sadly 'out of fashion' as an aquarium decoration, bogwood is one of the oldest known items of aquarium décor. Amazingly no two pieces of bogwood look alike and the brown-black colouration of this particular wood can really make dark green aquarium plants stand out against its various textures. Perhaps the main drawback with bogwood is that, particularly in the short term, it leeches tannin into the aquarium water and the only way to stop this is through a curing process."
 author: David Marshall
 show_author_profile: true
 category: fish

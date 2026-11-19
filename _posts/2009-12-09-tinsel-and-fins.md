@@ -1,5 +1,6 @@
 ---
 title: "Tinsel and Fins?"
+description: "This year, 2009, the Christmas Tree Festival at St. Peter & St. Paul's Church, Pickering (North Yorkshire) was held against the backdrop of the heaviest snowfalls Pickering had seen for many years. As you will see this created a 'photographers paradise'"
 author: David Marshall
 show_author_profile: true
 category: club

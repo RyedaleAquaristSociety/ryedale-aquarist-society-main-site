@@ -1,5 +1,6 @@
 ---
 title: "The Scarborough Sea-Life Centre and Marine Sanctuary"
+description: "As Sue and I had not visited the Scarborough Sea-Life Centre, or Burniston Pyramids as it is alternatively known, for a while we expected to find one or two changes but what a surprise awaited us as it was as though the whole display area had been virtually re-furbished. Never have we seen the whole attraction looking so good and so clean."
 author: David Marshall
 show_author_profile: true
 category: club

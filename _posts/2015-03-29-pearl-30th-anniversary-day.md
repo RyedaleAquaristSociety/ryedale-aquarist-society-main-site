@@ -1,5 +1,6 @@
 ---
 title: "Our Pearl (30th) Anniversary Day"
+description: "When the members of the Ryedale Aquarist Society decided to open their 30th Anniversary Day to all fishkeepers, they chose the beautiful surroundings of the Kirby Misperton Village Hall to hold this event on Sunday 29th March, 2015."
 author: David Ford
 show_author_profile: true
 category: club
