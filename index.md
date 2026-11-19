@@ -3,7 +3,7 @@ layout: article
 title: Ryedale Aquarist Society
 show_title: true
 excerpt: The little club with a big heart
-header_logo: /assets/images/final ryedale logo adult colours.png
+header_logo: /assets/images/final ryedale logo indigo adjusted.png
 ---
 
 <!-- Placeholder text: replace everything below with your own words. -->
