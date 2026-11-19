@@ -310,6 +310,32 @@
   margin-top: 3.5rem;
 }
 
+.event-banner {
+  margin-bottom: 2.5rem;
+  padding: 0.6rem 1rem;
+  border: 2px solid $main-color-1;
+  border-radius: 0.6rem;
+  background: rgba($main-color-1, 0.08);
+  text-align: center;
+  @include media-breakpoint-down(md) {
+    padding: 0.6rem 0.75rem;
+  }
+
+  & > h2 {
+    margin-top: 0;
+    padding-bottom: 0;
+    border-bottom-width: 0;
+    font-size: 1.5rem;
+    @include media-breakpoint-down(md) {
+      font-size: 1.25rem;
+    }
+  }
+
+  & > p:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .logo-history {
   display: flex;
   flex-wrap: wrap;

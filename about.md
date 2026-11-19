@@ -4,7 +4,8 @@ title: About
 excerpt: About the club and its history
 key: page-about
 ---
-
+Club Logos
+{: style="text-align: center"}
 <div class="logo-history">
   <figure>
     <img src="/assets/images/old-logo-2002-black-widow-tetra-painting.gif" alt="Painted Black Widow Tetra emblem by Ron Marsden">
@@ -23,7 +24,20 @@ key: page-about
     <figcaption>Current</figcaption>
   </figure>
 </div>
+Ryedale Aquarist Society is a fishkeeping club based in the Ryedale District of North Yorkshire. It was founded in 1985 and remains highly active today.<br>
+We meet monthly to discuss fishkeeping, show live fish, sell and trade aquarium-related items, play games, listen to talks with speakers and generally socialise together. We also make trips to members' houses to see their fish.
 
+#### Current Committee Members
+Chairman - Steve Jones<br>
+Secretary - David Marshall<br>
+Treasurer - Sue Marshall<br>
+Public Relations Officer - Becky Norville<br>
+
+You may be wondering exactly what and where Ryedale actually is? We are a rural area of North Yorkshire, England that covers the market towns of Pickering, Malton, Helmsley, Kirkbymoorside and a large number of surrounding villages. On a map you will find us halfway between Whitby to the north and York to the south.
+
+The members hope you enjoy our website, even if you are only browsing through, and further information about Ryedale A.S. can be obtained from the following e-mail address:-[ryedaleaquaristsociety@yahoo.co.uk](mailto:ryedaleaquaristsociety@yahoo.co.uk)
+
+#### History of the Club
 The Society began life in February 1985 as the Ryedale Aquarist Club. Then, as now, the aim was to provide fishkeepers in the Ryedale area of North Yorkshire, England with a monthly meeting at which such people, whatever their line of interest in the aquarium hobby, could get together and discuss aquarium fish.
 
 At our meetings (see the relevant page on our site for current details) we not only talk fish but have guest speakers who join us and provide information on their experiences with aquarium fish and trips abroad etc., social evenings with the members of neighbouring Aquatic groups, 'fun quizzes' and end the year with a Christmas party.
@@ -34,7 +48,10 @@ As a Society we are affiliated to the Yorkshire Association Of Aquarist Societie
 
 In 2008 we 'twinned' with fellow T.T.A.A. and Y.A.A.S. members STAMPS (see our links sections for details of the STAMPS website). We hold an annual 'Twinning Day' at which we make the most of our friendship.
 
-## From our early years
+#### From our Early Years
+
+![Six members of the society standing behind a table of trophies](/assets/images/posts/about/members-2002.gif)<br>
+*Several of our members say hello on our first web site, around 2002. Photograph is copyright of Mr. G. Grayson.*
 
 Our emblem is the Black Widow Tetra, chosen in 1987 when we joined the F.B.A.S. Read [the story of our emblem]({% post_url 2004-06-10-the-story-of-our-emblem %}) to find out how a blindfold and a drawing pin picked it.
 
@@ -45,11 +62,3 @@ We kept in touch with fellow Aquatic Societies and other U.K. Federations/Associ
 Our members were also members of several specialist groups e.g. Catfish Study Group (U.K.), with Mr. David Marshall editing Viviparous magazine for the Livebearer Information Service, and had individual memberships of other Associations e.g. Association Of Aquarists'.
 
 Our first web site went online in 2002, and our thanks went to the staff at the Pickering Centre of Askham Bryan College for their advice and encouragement in setting it up.
-
-![Six members of the society standing behind a table of trophies](/assets/images/posts/about/members-2002.gif)
-
-*Several of our members say hello on our first web site, around 2002. Photograph is copyright of Mr. G. Grayson.*
-
-If you have stayed with us this far you may be wondering exactly what and where Ryedale actually is? We are a rural area of North Yorkshire, England that covers the market towns of Pickering, Malton, Helmsley, Kirkbymoorside and a large number of surrounding villages. On a map you will find us halfway between Whitby to the north and York to the south.
-
-The members hope you enjoy our web site, even if you are only browsing through, and further information about Ryedale A.S,. can be obtained from the following e-mail address:-[ryedaleaquaristsociety@yahoo.co.uk](mailto:ryedaleaquaristsociety@yahoo.co.uk)
