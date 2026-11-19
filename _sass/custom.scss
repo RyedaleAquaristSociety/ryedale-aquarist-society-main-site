@@ -103,7 +103,9 @@
   text-underline-offset: 0.15em;
 }
 
-.skip-link {
+.skip-link,
+.skip-link:link,
+.skip-link:visited {
   position: absolute;
   left: -9999px;
   top: 0;
