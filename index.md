@@ -9,7 +9,7 @@ header_logo: /assets/images/final ryedale logo indigo adjusted.png
 
 <div class="event-banner" markdown="1">
 
-## Our 2027 Open Event is confirmed for 13th June 2027
+## Our next Open Event will be 13th June 2027
 
 Please see our [dedicated Open Event website<span class="visually-hidden"> (opens in a new window)</span>](https://ryedaleaquaristsociety2027.carrd.co/){:target="_blank" rel="noopener"} for all the details about what's to come on this fantastic day
 

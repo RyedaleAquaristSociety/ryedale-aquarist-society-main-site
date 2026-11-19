@@ -102,7 +102,8 @@
 // underline links inside paragraphs and lists of page text so they don't rely on colour alone
 .article__content > p a,
 .article__content > ul > li a,
-.article__content > ol > li a {
+.article__content > ol > li a,
+.event-banner > p a {
   text-decoration: underline;
   text-underline-offset: 0.15em;
 }
