@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Events
+excerpt: Upcoming and past events in one place
 # Replace with the club's Facebook page address, e.g. https://www.facebook.com/YourPageName
 facebook_page: https://www.facebook.com/p/Ryedale-Aquarist-Society-61588121637369/
 ---
