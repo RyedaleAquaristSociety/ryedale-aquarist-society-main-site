@@ -1,5 +1,7 @@
 ---
 title: The New Ryedale Aquarist Society Website is Live
+author: Becky
+show_author_profile: true
 category: news
 ---
 

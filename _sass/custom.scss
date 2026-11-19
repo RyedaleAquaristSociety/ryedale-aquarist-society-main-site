@@ -141,7 +141,7 @@
   color: rgba(255, 255, 255, 0.9);
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
   margin-top: 0.5rem;
-  font-size: 1rem;
+  font-size: 1.125rem;
   .right-col {
     float: none;
     display: flex;
@@ -160,6 +160,10 @@
   padding: 0.2rem 0;
 }
 
+.navigation__item > a {
+  font-size: 1.125rem;
+}
+
 .layout--archive > .site-tags {
   margin-top: 2rem;
 
@@ -175,6 +179,33 @@
 .search-box > input,
 .search__cancel {
   border-radius: 0.4rem;
+}
+
+.article__content {
+  font-size: 1.125rem;
+}
+
+.footer .site-info {
+  font-size: 0.8rem;
+}
+
+.item__description,
+.item__description .article__content {
+  font-size: 1.125rem;
+}
+
+.article-list .article__info {
+  font-size: 1rem;
+}
+
+.layout--archive .article-list {
+  .item__header {
+    font-size: 1.125rem;
+  }
+
+  .item__meta {
+    font-size: 1rem;
+  }
 }
 
 /* end custom scss snippet */

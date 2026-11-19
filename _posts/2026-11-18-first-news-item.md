@@ -1,5 +1,7 @@
 ---
 title: First News Item!
+author: Becky
+show_author_profile: true
 category: news
 ---
 
