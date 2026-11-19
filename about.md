@@ -5,6 +5,25 @@ excerpt: About the club and its history
 key: page-about
 ---
 
+<div class="logo-history">
+  <figure>
+    <img src="/assets/images/old-logo-2002-black-widow-tetra-painting.gif" alt="Painted Black Widow Tetra emblem by Ron Marsden">
+    <figcaption>2002</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/old-logo-2005-black-widow-tetra-photo.jpg" alt="Photograph of a Black Widow Tetra by Kevin Webb with the words Ryedale Aquarist Society">
+    <figcaption>2005</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/old-logo-again-2024.jpg" alt="Round badge with a Black Widow Tetra on a yellow circle and the words Ryedale Aquarist Society">
+    <figcaption>2024</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/logo/ryedale-logo.png" alt="Current Ryedale Aquarist Society logo with a Black Widow Tetra in a purple ring">
+    <figcaption>Current</figcaption>
+  </figure>
+</div>
+
 The Society began life in February 1985 as the Ryedale Aquarist Club. Then, as now, the aim was to provide fishkeepers in the Ryedale area of North Yorkshire, England with a monthly meeting at which such people, whatever their line of interest in the aquarium hobby, could get together and discuss aquarium fish.
 
 At our meetings (see the relevant page on our site for current details) we not only talk fish but have guest speakers who join us and provide information on their experiences with aquarium fish and trips abroad etc., social evenings with the members of neighbouring Aquatic groups, 'fun quizzes' and end the year with a Christmas party.
