@@ -1,9 +1,9 @@
 ---
-title: Placeholder news item one
+title: The New Ryedale Aquarist Society Website is Live
 category: news
 ---
 
-This is a news item about nothing. I would love it to be about something but I really just need to test the news list.
+The website is live, but this is still a news item about nothing. I would love it to be about something but I really just need to test the news list.
 
 <!--more-->
 

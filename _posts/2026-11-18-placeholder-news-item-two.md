@@ -1,10 +1,10 @@
 ---
-title: Placeholder news item two
+title: Flagfish are Nice
 category: news
 ---
 
-Our latest news is that the website is now up and running! But this news item is still rubbish. I'll add something better later.
+Did you know that Flagfish are excellent fish to keep? Please keep more Flagfish.
 
 <!--more-->
 
-More stuff here but there's nothing really here so how about them Flagfish?
+More stuff here but there's nothing really here.
