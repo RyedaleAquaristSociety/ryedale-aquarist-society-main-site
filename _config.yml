@@ -16,7 +16,7 @@
 
 ## => Site Settings
 ##############################
-remote_theme: RyedaleAquaristSociety/ryedale-aquarist-society-theme@v1.1.0
+remote_theme: RyedaleAquaristSociety/ryedale-aquarist-society-theme@v1.1.2
 text_skin: ryedale # our own skins: "ryedale" (logo purple and green), "bluegrey"; theme ones: "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.ryedaleaquaristsociety.org.uk # the base hostname & protocol for your site e.g. https://www.someone.com
@@ -183,6 +183,10 @@ analytics:
 markdown    : kramdown
 highlighter : rouge
 permalink   : pretty
+
+not_found_link:
+  url: /news/
+  text: see the latest news
 
 exclude:
   - CHANGELOG.md
