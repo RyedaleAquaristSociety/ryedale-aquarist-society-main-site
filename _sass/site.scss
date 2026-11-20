@@ -1,6 +1,10 @@
 @media (min-width: 745px) {
   .hero__logo {
-    width: 11.5rem;
     margin-bottom: 0.5rem;
+  }
+
+  .hero__content:has(.hero__logo) {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 }
