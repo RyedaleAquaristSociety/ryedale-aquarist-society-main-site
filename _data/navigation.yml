@@ -1,18 +1,18 @@
 header:
   - title: Home
-    url: /index.html
+    url: /
 
   - title: About
-    url: /about.html
+    url: /about/
 
   - title: News
-    url: /news.html
+    url: /news/
 
   - title: Posts
-    url: /posts.html
+    url: /posts/
 
   - title: Events
-    url: /events.html
+    url: /events/
 
   - title: Contact
-    url: /contact.html
+    url: /contact/

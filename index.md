@@ -27,7 +27,7 @@ On our website you will find details about the club, in-person meetings/events, 
 {% if latest_news.size > 0 %}
 {% include article-list.html articles=latest_news type='item' show_info=true show_excerpt=true show_readmore=true heading_level=3 %}
 
-[All news &rarr;]({{ '/news.html' | relative_url }})
+[All news &rarr;]({{ '/news/' | relative_url }})
 {% else %}
 No news yet.
 {% endif %}
