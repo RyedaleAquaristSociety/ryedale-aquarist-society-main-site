@@ -12,4 +12,4 @@ The quickest way to reach us is through our [Facebook page](https://www.facebook
 
 ## Email
 
-You can email us at [ryedaleaquaristsociety@yahoo.co.uk](mailto:ryedaleaquaristsociety@yahoo.co.uk).
+You can email us at [info@ryedaleaquaristsociety.org.uk](mailto:info@ryedaleaquaristsociety.org.uk).

@@ -35,7 +35,7 @@ Public Relations Officer - Becky Norville<br>
 
 You may be wondering exactly what and where Ryedale actually is? We are a rural area of North Yorkshire, England that covers the market towns of Pickering, Malton, Helmsley, Kirkbymoorside and a large number of surrounding villages. On a map you will find us halfway between Whitby to the north and York to the south.
 
-The members hope you enjoy our website, even if you are only browsing through, and further information about Ryedale A.S. can be obtained from the following e-mail address:-[ryedaleaquaristsociety@yahoo.co.uk](mailto:ryedaleaquaristsociety@yahoo.co.uk)
+The members hope you enjoy our website, even if you are only browsing through, and further information about Ryedale A.S. can be obtained from the following e-mail address:-[info@ryedaleaquaristsociety.org.uk](mailto:info@ryedaleaquaristsociety.org.uk)
 
 #### History of the Club
 The Society began life in February 1985 as the Ryedale Aquarist Club. Then, as now, the aim was to provide fishkeepers in the Ryedale area of North Yorkshire, England with a monthly meeting at which such people, whatever their line of interest in the aquarium hobby, could get together and discuss aquarium fish.
