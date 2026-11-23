@@ -17,8 +17,8 @@ Please see our [dedicated Open Event website<span class="visually-hidden"> (open
 
 ## Welcome
 
-Welcome to the Ryedale Aquarist Society website! We're a group of fishkeepers based in the Ryedale district in North Yorkshire.
-On our website you will find details about the club, in-person meetings/events, news, blog posts and articles relating to fishkeeping.
+Welcome to the Ryedale Aquarist Society website! We're a group of fishkeepers based in the Ryedale district in North Yorkshire. Towns within Ryedale include Helmsley, Kirkbymoorside, Malton, Norton-on-Derwent, and Pickering. Anyone from outside of the Ryedale district is welcome to join us, particularly if you are from neighbouring areas such as York, Scarborough, Middlesborough, Thirsk and the North-East.
+On this website you will find details about the club, in-person meetings/events, news, blog posts and articles relating to fishkeeping.
 
 ## Latest News
 
