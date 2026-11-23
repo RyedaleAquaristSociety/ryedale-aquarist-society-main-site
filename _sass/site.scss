@@ -1,3 +1,37 @@
+.article__content .event-list {
+  margin: 0 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.event-list__item {
+  margin: 0 0 1rem;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid $main-color-1;
+  border-radius: 0.3rem;
+  background: rgba($main-color-1, 0.08);
+}
+
+.event-list .event-list__item > p {
+  margin: 0.25rem 0 0;
+}
+
+.event-list .event-list__title {
+  margin: 0;
+  padding: 0;
+  border-bottom-width: 0;
+  font-size: 1.15rem;
+}
+
+.event-list__when {
+  font-weight: bold;
+}
+
+.event-list--past .event-list__item {
+  border-left-color: rgba($main-color-1, 0.4);
+  background: transparent;
+}
+
 @media (min-width: 745px) {
   .hero__logo {
     margin-bottom: 0.5rem;

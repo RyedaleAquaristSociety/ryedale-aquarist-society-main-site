@@ -2,8 +2,7 @@
 layout: article
 title: Events
 excerpt: Upcoming and past events in one place
-# Replace with the club's Facebook page address, e.g. https://www.facebook.com/YourPageName
-facebook_page: https://www.facebook.com/p/Ryedale-Aquarist-Society-61588121637369/
+facebook_events: https://www.facebook.com/profile.php?id=61588121637369&sk=events
 ---
 
 <div class="event-banner" markdown="1">
@@ -14,14 +13,33 @@ Please see our [dedicated Open Event website<span class="visually-hidden"> (open
 
 </div>
 
-Here's what's coming up at the club. Events are kept up to date on our
-[Facebook page]({{ page.facebook_page }}).
+Here's what's coming up at the club. You'll also find our events on our
+[Facebook events page<span class="visually-hidden"> (opens in a new window)</span>]({{ page.facebook_events }}){:target="_blank" rel="noopener"}.
 
-<div class="facebook-events">
-  <iframe
-    src="https://www.facebook.com/plugins/page.php?href={{ page.facebook_page | url_encode }}&tabs=timeline&width=500&height=700&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false"
-    width="500" height="700" style="border:none"
-    allowfullscreen loading="lazy"
-    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-    title="Ryedale Aquarist Society posts on Facebook"></iframe>
-</div>
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign all_events = site.data.events | sort: "date" %}
+{% assign upcoming_events = all_events | where_exp: "event", "event.date >= today" %}
+{% assign past_events = all_events | where_exp: "event", "event.date < today" | reverse %}
+
+## Upcoming events
+
+{% if upcoming_events.size > 0 %}
+<ul class="event-list">
+{%- for event in upcoming_events %}
+{% include event-item.html event=event %}
+{%- endfor %}
+</ul>
+{% else %}
+There are no upcoming events at the moment. Keep an eye on our
+[Facebook events page<span class="visually-hidden"> (opens in a new window)</span>]({{ page.facebook_events }}){:target="_blank" rel="noopener"}.
+{% endif %}
+
+{% if past_events.size > 0 %}
+## Past events
+
+<ul class="event-list event-list--past">
+{%- for event in past_events %}
+{% include event-item.html event=event %}
+{%- endfor %}
+</ul>
+{% endif %}

@@ -1,0 +1,16 @@
+<li class="event-list__item">
+  <h3 class="event-list__title">
+    {%- if include.event.link -%}
+    <a href="{{ include.event.link }}" target="_blank" rel="noopener">{{ include.event.title }}<span class="visually-hidden"> (opens in a new window)</span></a>
+    {%- else -%}
+    {{ include.event.title }}
+    {%- endif -%}
+  </h3>
+  <p class="event-list__when"><time datetime="{{ include.event.date }}{% if include.event.time %}T{{ include.event.time }}{% endif %}">{{ include.event.date | date: "%A %-d %B %Y" }}{% if include.event.time %}, {{ include.event.time }}{% endif %}</time></p>
+  {%- if include.event.venue %}
+  <p class="event-list__venue">{{ include.event.venue }}</p>
+  {%- endif %}
+  {%- if include.event.description %}
+  <p class="event-list__description">{{ include.event.description }}</p>
+  {%- endif %}
+</li>
